@@ -26,7 +26,7 @@ a = a * 10
 print(a)
 
 # Division
-a = 10
+a = 12
 a = a / 10
 print(a)
 
@@ -41,8 +41,8 @@ a = a **3
 print(a)
 
 # Floor Division
-a = 10
-a = a // 10
+a = 19
+a = a // 15
 print(a)
 
 print("--------------")
