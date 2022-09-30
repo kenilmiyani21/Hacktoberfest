@@ -45,8 +45,8 @@ class student:
 		self.m1 = value #modification
 		return self.m1
 
-s1 = student(10,20,30)
-s2 = student(50,60,70)
+s1 = student(60,90,20)
+s2 = student(90,90,00)
 
 
 print(s1.get_m1())
