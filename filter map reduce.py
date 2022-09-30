@@ -18,7 +18,7 @@ Iterable = It is maybe either a squence, list, string, tuple, a container which 
 a = [10,40,20,70,30,90,100,60]
 
 def highest_marks(n):
-	if n >= 60:
+	if n >= 78:
 		return True
 
 result = filter(highest_marks,a)
@@ -33,7 +33,7 @@ print(type(result))
 
 # or
 
-result = list(filter(lambda n : (n >= 60),a))
+result = list(filter(lambda n : (n >= 78),a))
 print(result)
 print(type(result))
 
