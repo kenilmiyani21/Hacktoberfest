@@ -27,7 +27,7 @@ print(type(result))
 
 # or
 
-result = list(filter(highest_marks,a))
+result = list(filter(highest_marks,a1))
 print(result)
 print(type(result))
 
