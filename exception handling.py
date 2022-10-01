@@ -16,7 +16,7 @@ x = int(input('Enter a number'))
 print(x)
 
 try:
-	x = int(input('Enter a number'))
+	x = int(input('Enter your number'))
 	print(x)
 except:
 	print('Enter a valid integer number')
