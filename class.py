@@ -93,7 +93,7 @@ class laptop:
 computer1 = laptop()
 computer2 = laptop()
 
-# print(type(computer1))
+# print(type(computer2))
 laptop.Configuration(computer1)
 laptop.Configuration(computer2)
 
