@@ -46,11 +46,11 @@ class Myclass:
 		if a!=None and b!=None and c!=None:
 			s = a + b + c
 		elif a!=None and b!=None:
-			s = a * b
+			s = a + b
 		elif a!=None:
 			s = a
 		else:
-			s = "Atleast provide 2 Values"
+			s = "Atleast provide 3 Values"
 		return s
 
 obj = Myclass()
