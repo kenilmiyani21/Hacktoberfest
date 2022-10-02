@@ -25,7 +25,7 @@ while condition:
 !=
 -----------------------------------------------'''
 
-i = 2
+i = 5
 while 11 <= 10:
     print(1, "Hello")
     i += 1
@@ -45,7 +45,7 @@ print("-----------------")
 
 # Else statement - This repeatedly tests the condition and, if it is True, executes the Statement 1; if the condition is False (which may be the first time it is tested) the Statement 2 of the else clause, is executed and the loop terminates. The else suite will be always executed irrespective of the statements in the loop are executed or not
 
-i = 1
+i = 3
 while i < 10:
     print(i, "Hello")
     i = i + 2
