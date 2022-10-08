@@ -8,7 +8,7 @@ print(lst)
 print(lst[1:5:2])
 
 #Change Element
-lst[2] = "Aalap Modi"
+lst[2] = " prince Modi"
 print(lst[2])
 
 #Check Length of List
@@ -23,7 +23,7 @@ lst.insert(4,"Harsh Dalwadi")
 print(lst[4])
 
 #delete particular element
-lst.remove("Harsh Dali")
+lst.remove("Harsh Dalwadi")
 print(lst)
 
 #delete element at last from list
