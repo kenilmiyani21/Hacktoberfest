@@ -68,7 +68,7 @@ print(a.capitalize())
 '''-----------------------------------------------
 replace(original,change) - replace word 
 -----------------------------------------------'''
-a = "Harsh Dalwadi"
+a = "Harsh Di"
 print(a.replace("Dalwadi","prajapati"))
 
 '''-----------------------------------------------
