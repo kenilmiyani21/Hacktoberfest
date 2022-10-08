@@ -23,7 +23,7 @@ lst.insert(4,"Harsh Dalwadi")
 print(lst[4])
 
 #delete particular element
-lst.remove("Harsh Dalwadi")
+lst.remove("Harsh Dali")
 print(lst)
 
 #delete element at last from list
