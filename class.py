@@ -45,6 +45,7 @@ class laptop:
 
 computer1 = laptop()
 computer2 = laptop()
+computer3 = laptop()
 
 # print(type(computer1))
 laptop.Configuration(computer1)
@@ -52,7 +53,7 @@ laptop.Configuration(computer2)
 
 computer1.Configuration()
 computer2.Configuration()
-
+computer3.Configuration()
 
 syntax:
 class Classname(object): #object is optional
