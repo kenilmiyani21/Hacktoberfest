@@ -71,7 +71,7 @@ h = a.copy()
 print("H:",h)
 
 #Removing Elements
-h.remove('Harsh')
+h.remove('Harsil')
 h.discard('Aalap')
 print(h)
 h.clear() #clear all elements
