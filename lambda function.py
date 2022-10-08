@@ -33,6 +33,13 @@ show(5)
 
 #type 2
 show = lambda x : print(x)
+
+#example
+from functools import reduce 
+
+nums = [1, 2, 3, 4]
+ans = reduce(lambda x, y: x + y, nums)
+print(ans) 
 show(10)
 
 #passing 2 parameters
