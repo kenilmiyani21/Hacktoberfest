@@ -9,7 +9,7 @@ function call()
 function_name(parameters)
 -----------------------------------------------'''
 def fun1(): #define
-	print("My Name is Meet")
+	print("My Name is Kenil")
 	c = 11 + 1
 	print(c)
 
@@ -18,7 +18,7 @@ fun1() #call
 
 #return
 def fun_return():
-	return "My Name is Meet"
+	return "My Name is Kenil"
 
 a = "My Name is Meet savani"
 print(a)
