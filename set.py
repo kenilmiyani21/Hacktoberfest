@@ -72,7 +72,7 @@ print("H:",h)
 
 #Removing Elements
 h.remove('Harsh')
-h.discard('Aalap')
+h.discard('prince')
 print(h)
 h.clear() #clear all elements
 print("After Clear")
